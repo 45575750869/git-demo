@@ -6,4 +6,4 @@ lover
 lover
 lover
 lover   master test
-lover
+lover  hot-fix test
